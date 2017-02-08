@@ -3,7 +3,7 @@
 
 {Logo Fritzing Fab powered by AISLER}
 
-Dear Fritzing user, we are happy you want to use our service. Fritzing has partnered with AISLER as your fool-proof way to purchase a high quality industry-grade PCB and support Fritzing's development. For more details about Fritzing's collaboration with AISLER head over to [our blog](https://blog.aisler.net/making-electronics-simpler). On these pages you will find information about the service and how it is used best.
+Dear Fritzing user, we are happy you want to use our service. Fritzing has partnered with AISLER as your fool-proof way to purchase a high quality industry-grade PCB and support Fritzing's development. On these pages you will find information about the service and how it is used best.
 
 ### 0. The Basics of PCB design ###
 The basics: lay out your board, route the traces and clean up. [Learn more](Fritzing/the-basics)
