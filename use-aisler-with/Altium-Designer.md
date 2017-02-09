@@ -33,7 +33,7 @@ AISLER expects the gerber files in the following format:
 
 Make sure that in your export settings you select 2:4 precision and inches for your drill files.
 
-**Please note:** Upload all your Gerbers in one ZIP-File for us to automatically detect your project's parameters.
+**Please note:** Upload all your Gerbers in one ZIP-File for us to automatically detect your project's parameters. Also please do not include any other files that are not listed above.
 
 ### Steps to upload your project to AISLER ###
 

@@ -2,9 +2,9 @@
 # Holding your project in your hands #
 You have waited **12 days** the most and now it is time to unwrap your project. Follow these steps to make the most of your project.
 
-1. [Prepare your project for the Fab](Prepare-your-project-for-the-Fab)
-2. [Uploading your project to AISLER](Upload-your-project-to-AISLER)
-3. [Document your parts (optional)](Document-parts-in-AISLER)
+1. [[Prepare your project for the Fab|use-aisler-with/Autodesk-Eagle/Prepare-your-project-for-the-Fab]]
+2. [[Uploading your project to AISLER|use-aisler-with/Autodesk-Eagle/Upload-your-project-to-AISLER]]
+3. [[Document your parts (optional)|use-aisler-with/Autodesk-Eagle/Document-parts-in-AISLER]]
 4. Holding your project in your hands
 
 ### 1. Assemble your board ###

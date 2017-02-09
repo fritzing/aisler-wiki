@@ -50,7 +50,7 @@ We accept quite a lot of file extensions, but to make sure everything gets detec
 <tr> <td>project_name_npth.xln</td><td>NPTH Holes</td> </tr>
 </table>
 
-**Please note:** Upload all your Gerbers in one ZIP-File for us to automatically detect your project's parameters.
+**Please note:** Upload all your Gerbers in one ZIP-File for us to automatically detect your project's parameters. Also, please remove all unnecessary files in the zip folder.
 
 ### I’m a business and would like to receive an invoice without VAT ###
 

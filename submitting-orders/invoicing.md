@@ -27,6 +27,6 @@ Please contact us via [felix@aisler.net](mailto:felix@aisler.net), send your val
 
 For addresses outside the European Union we automatically deduct the VAT so no registration is necessary.
 
-Navigate to other topics about [submitting orders](../submitting-orders):
-- [Shipping Information](submitting-orders/shipping-information)
+Navigate to other topics about [[submitting orders|submitting-orders]]:
+- [[Shipping Information|submitting-orders/shipping-information]]
 

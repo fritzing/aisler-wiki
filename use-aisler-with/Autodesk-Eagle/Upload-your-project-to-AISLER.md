@@ -1,11 +1,11 @@
 <!-- --- title: Using Autodesk Eagle with AISLER: Uploading your project to AISLER -->
 # Uploading your project to AISLER #
-This page tells you how you upload, validate and order your projectwith AISLER. We promise you will be able to get your project ready to order within one minute. -- if you already know how that stuff is done, [skip to the next step](document-parts-in-aisler).
+This page tells you how you upload, validate and order your project with AISLER. We promise you will be able to get your project ready to order within one minute. -- if you already know how that stuff is done, [[skip to the next step|use-aisler-with/Autodesk-Eagle/document-parts-in-aisler]].
 
-1. [Prepare your project for the Fab](Prepare-your-project-for-the-Fab)
+1. [[Prepare your project for the Fab|use-aisler-with/Autodesk-Eagle/Prepare-your-project-for-the-Fab]]
 2. Uploading your project to AISLER
-3. [Document your parts (optional)](document-parts-in-aisler)
-4. [Holding your project in your hands](Holding-your-project-in-your-hands)
+3. [[Document your parts (optional)|use-aisler-with/Autodesk-Eagle/document-parts-in-aisler]]
+4. [[Holding your project in your hands|use-aisler-with/Autodesk-Eagle/Holding-your-project-in-your-hands]]
 
 
 ### 1. Start a new project ###
@@ -56,4 +56,4 @@ Select your method of payment, and you will be redirected back to us.
 
 This was it, now wait just 12 days and you will have your project in your hands.
 
-Next step: [Documenting your parts (optional)](document-parts-in-aisler)
+Next step: [[Documenting your parts (optional)|use-aisler-with/Autodesk-Eagle/document-parts-in-aisler]]

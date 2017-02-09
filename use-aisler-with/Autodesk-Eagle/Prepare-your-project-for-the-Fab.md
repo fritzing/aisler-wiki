@@ -3,9 +3,9 @@
 Once your board is layed out, give it the last finishing checks before you submit it to AISLER. Already have everything covered, [skip to the next step](Upload-your-project-to-AISLER).
 
 1. Prepare your project for the Fab
-2. [Uploading your project to AISLER](Upload-your-project-to-AISLER)
-3. [Document your parts (optional)](Document-parts-in-AISLER)
-4. [Holding your project in your hands](Holding-your-project-in-your-hands)
+2. [[Uploading your project to AISLER|use-aisler-with/Autodesk-Eagle/Upload-your-project-to-AISLER]]
+3. [[Document your parts (optional)|use-aisler-with/Autodesk-Eagle/Document-parts-in-AISLER]]
+4. [[Holding your project in your hands|Holding-your-project-in-your-hands]]
 
 ### 1. Make a Design Rule Check (DRC) ###
 ![Make a design rule check in Eagle](assets/design-rule-check.png)
@@ -36,4 +36,4 @@ When you draw your board dimensions make sure they are lines not rectangles. Oth
 **Pro Tip**: If you are using a template, e.g. for an arduino shield, you should already be covered.
 
 
-The next step: [Uploading your project to AISLER](Upload-your-project-to-AISLER)
+The next step: [[Uploading your project to AISLER|Upload-your-project-to-AISLER]]

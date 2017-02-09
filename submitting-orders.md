@@ -2,7 +2,6 @@
 # Submitting orders to AISLER
 This section is all about ordering your project at AISLER. We have the following articles for you:
 
-- [Invoicing & Accepted payment methods](submitting-orders/invoicing)
-- [Shipping Information](submitting-orders/shipping-information)
+- [[Invoicing & Accepted payment methods|submitting-orders/invoicing]]
+- [[Shipping Information](submitting-orders/shipping-information]]
 
-Back to the the [wiki](../).
