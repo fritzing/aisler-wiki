@@ -5,15 +5,8 @@ This page tells you how to layout your board so that it can be produced by Fritz
 0. The Basics
 1. [[Prepare your project for the Fab|use-aisler-with/Fritzing/Prepare-your-project-for-the-Fab]]
 2. [[Uploading your project to AISLER|use-aisler-with/Fritzing/Upload-your-project-to-AISLER]]
-3. Documenting your parts (optional)
+3. [[Documenting your parts (optional)|use-aisler-with/Fritzing/Document-parts-in-AISLER]]
 4. [[Holding your project in your hands|use-aisler-with/Fritzing/Holding-your-project-in-your-hands]]
-
-0. The Basics
-1. [Prepare your project for the Fab](Prepare-your-project-for-the-Fab)
-2. [Uploading your project to AISLER](Upload-your-project-to-AISLER)
-3. [Document your parts (optional)](Document-parts-in-AISLER)
-4. [Holding your project in your hands](Holding-your-project-in-your-hands)
-
 
 ### 1. Layout your PCB ###
 Once you have created your circuit in Fritzing, go to "PCB" view to lay it out. If you are not familiar with this process, check out our [tutorial pages](http://fritzing.org/learning/tutorials/). Make sure you have [the latest version of Fritzing](http://fritzing.org/download) installed to reduce potential problems.
