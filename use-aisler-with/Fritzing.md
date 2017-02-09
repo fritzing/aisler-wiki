@@ -6,7 +6,7 @@
 Dear Fritzing user, we are happy you want to use our service. Fritzing has partnered with AISLER as your fool-proof way to purchase a high quality industry-grade PCB and support Fritzing's development. On these pages you will find information about the service and how it is used best.
 
 ### 0. The Basics of PCB design ###
-The basics: lay out your board, route the traces and clean up. [[Learn more|Fritzing/the-basics]]
+The basics: lay out your board, route the traces and clean up. [[Learn more|use-aisler-with/Fritzing/the-basics]]
 
 ### 1. Prepare your project for the Fab ###
 Before you submit: give your sketch some checks and then send it off to us. [Learn more](Fritzing/Prepare-your-project-for-the-Fab)
