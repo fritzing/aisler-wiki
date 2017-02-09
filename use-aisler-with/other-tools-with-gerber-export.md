@@ -1,11 +1,11 @@
 <!-- --- title: Using Gerber Export with AISLER -->
 # Using Gerber Export with AISLER
-This tutorial shows you how to export your project as a Gerber-Package. Please make sure you zip your Gerber-Files. 
+This tutorial shows you how to export your project as a Gerber-Package. Please make sure you zip your Gerber-Files.
 
-This is the catch-all tutorial for everyone that does not use [Fritzing](Fritzing), [Eagle](Autodesk-Eagle), [Altium Designer](Altium-Designer) or [National Instruments Ultiboard](national-instruments-ultiboard). If you want to help our community, feel free to contribute and submit a pull request in our [wiki repository](https://github.com/AislerHQ/aisler-wiki) for your favorite design tool. 
+This is the catch-all tutorial for everyone that does not use [Fritzing](Fritzing), [Eagle](Autodesk-Eagle), [Altium Designer](Altium-Designer) or [National Instruments Ultiboard](national-instruments-ultiboard). If you want to help our community, feel free to contribute and submit a pull request in our [wiki repository](https://github.com/AislerHQ/aisler-wiki) for your favorite design tool.
 
 ### Most important design rules to use with National Instruments Ultiboard ###
-Use these design rules to get optimal results with AISLER's production. 
+Use these design rules to get optimal results with AISLER's production.
 
 - Min. trace width: 100 μm
 - Min. trace spacing: 100 μm
@@ -36,7 +36,7 @@ AISLER expects the gerber files in the following format:
 
 Make sure that in your export settings you select 2:4 precision and inches for your drill files.
 
-**Please note:** Upload all your Gerbers in one ZIP-File for us to automatically detect your project's parameters.
+**Please note:** Upload all your Gerbers in one ZIP-File for us to automatically detect your project's parameters. Also please do not include any other files that are not listed above.
 
 ### Steps to upload your project to AISLER ###
 
@@ -48,7 +48,7 @@ Make sure that in your export settings you select 2:4 precision and inches for y
 ### Steps to document your Bill-of-Materials
 There are two ways to document your bill-of-materials
 
-1. Navigate to the project you want to document 
+1. Navigate to the project you want to document
 2. Click the 'Edit' button under the Bill-of-Materials section
 3. Click 'Manually add part' and assign a part
 4. Repeat until you have everything documented

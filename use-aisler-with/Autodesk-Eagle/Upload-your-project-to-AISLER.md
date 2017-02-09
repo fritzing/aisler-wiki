@@ -2,7 +2,11 @@
 # Uploading your project to AISLER #
 This page tells you how you upload, validate and order your project with AISLER. We promise you will be able to get your project ready to order within one minute. -- if you already know how that stuff is done, [[skip to the next step|use-aisler-with/Autodesk-Eagle/document-parts-in-aisler]].
 
+<<<<<<< HEAD
 1. [[Prepare your project for the Fab|use-aisler-with/Autodesk-Eagle/Prepare-your-project-for-the-Fab]]
+=======
+1. [[Prepare your project for the Fab|Prepare-your-project-for-the-Fab]]
+>>>>>>> b667e6ab876b847d310c7d0a32e4dee3ae19e02a
 2. Uploading your project to AISLER
 3. [[Document your parts (optional)|use-aisler-with/Autodesk-Eagle/document-parts-in-aisler]]
 4. [[Holding your project in your hands|use-aisler-with/Autodesk-Eagle/Holding-your-project-in-your-hands]]
@@ -32,7 +36,7 @@ AISLER renders manufacturing images so that you can proof your design.
 **Not happy with how things are rendered?** Repeat step 1 to 3 until you are. It doesn't cost anything to iterate, and it helps you get your project manufactured with ease.   
 
 ### 4. Setup a repository and project name ###
-![Setup a repository and name for your Fritzing project](../assets/new_project.png)
+![Setup a repository and name for your Eagle project](../assets/new_project.png)
 
 Just create or use an existing repository and create a new project. AISLER will try to suggest a name for you, but feel free to change it to match your flavor. This is the final step and you will have a documented project that you can let AISLER manufacture for you.
 

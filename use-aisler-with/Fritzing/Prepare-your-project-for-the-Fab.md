@@ -1,12 +1,12 @@
 <!-- --- title: Using Fritzing with AISLER: Prepare your project for the Fab -->
 # Prepare your project for the Fab #
-Once your board is layed out, give it the last finishing checks before you submit it to AISLER. Already have everything covered, [skip to the next step](Upload-your-project-to-AISLER).
+Once your board is layed out, give it the last finishing checks before you submit it to AISLER. Already have everything covered, [[skip to the next step|use-aisler-with/Fritzing/Upload-your-project-to-AISLER]].
 
-0. [The Basics](the-basics)
+0. [[The Basics|use-aisler-with/Fritzing/the-basics]]
 1. Prepare your project for the Fab
-2. [Uploading your project to AISLER](Upload-your-project-to-AISLER)
-3. [Document your parts (optional)](Document-parts-in-AISLER)
-4. [Holding your project in your hands](Holding-your-project-in-your-hands)
+2. [[Uploading your project to AISLER|use-aisler-with/Fritzing/Upload-your-project-to-AISLER]]
+3. [[Documenting your parts (optional)|use-aisler-with/Fritzing/Document-parts-in-AISLER]]
+4. [[Holding your project in your hands|use-aisler-with/Fritzing/Holding-your-project-in-your-hands]]
 
 ### 1. Make a Design Rule Check (DRC) ###
 ![Design rule check in Fritzing](assets/design_rule_check.png)

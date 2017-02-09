@@ -1,6 +1,12 @@
 <!-- --- title: Using Fritzing with AISLER: the basics -->
 # The Basics of PCB design #
-This page tells you how to layout your board so that it can be produced by Fritzing Fab powered by AISLER. These are really just "best practice" suggestions -- if you're an advanced user, [skip to the next step](Prepare-your-project-for-the-Fab).
+This page tells you how to layout your board so that it can be produced by Fritzing Fab powered by AISLER. These are really just "best practice" suggestions -- if you're an advanced user, [[skip to the next step|use-aisler-with/Fritzing/Prepare-your-project-for-the-Fab]].
+
+0. The Basics
+1. [[Prepare your project for the Fab|use-aisler-with/Fritzing/Prepare-your-project-for-the-Fab]]
+2. [[Uploading your project to AISLER|use-aisler-with/Fritzing/Upload-your-project-to-AISLER]]
+3. Documenting your parts (optional)
+4. [[Holding your project in your hands|use-aisler-with/Fritzing/Holding-your-project-in-your-hands]]
 
 0. The Basics
 1. [Prepare your project for the Fab](Prepare-your-project-for-the-Fab)
