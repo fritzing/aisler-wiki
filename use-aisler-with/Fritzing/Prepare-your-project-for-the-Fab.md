@@ -24,7 +24,7 @@ Be careful with this step, though: If you have a "messy" sketch where there are 
 **Note for Advanced Users**: We will automatically re-apply a copper fill to your PCB in the production process. If you absolutely want to keep areas of your PCB free of copper, just place a "copper fill blocker" there.
 
 ### 3. Make a paper placement test (optional) ###
-![Make a paper test with your Fritzing Sketch](assets/fritzing_paper_circuit.jpeg)
+![Make a paper test with your Fritzing Sketch](assets/fritzing_paper_circuit.png)
 
 Use a PDF printout of the PCB view to make a paper placement test (File > Export for Production > Etchable PDF). Check if everything is in a sensible position and if the dimensions of the footprints and your actual components match each other. You will be surprised how helpful this step is.
 
