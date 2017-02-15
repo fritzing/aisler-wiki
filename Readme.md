@@ -2,7 +2,7 @@
 
 This is the public wiki of AISLER's service and also for general electronics manufacturing topics. Feel free to contribute by filing issues or submitting a pull request.
 
-This wiki uses [gollum](https://github.com/gollum/gollum) style syntax. So if you follow its instructions to set it up.)
+This wiki uses [gollum](https://github.com/gollum/gollum) style syntax. So you follow its instructions to set it up.
 
 [The wiki's homepage](https://github.com/AislerHQ/aisler-wiki.git)
 
