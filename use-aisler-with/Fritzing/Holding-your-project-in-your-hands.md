@@ -28,7 +28,7 @@ Now that you have assembled your board and it is (hopefully) working, why don't 
 - send an Email to the [Make Magazine](http://makezine.com/).
 - amaze your friends.
 - fool your enemies.
-- go into business selling widgets (you an use AISLER for that, too).
+- go into business selling widgets (you can use AISLER for that, too).
 - change the world!
 - or change your living room.
 
