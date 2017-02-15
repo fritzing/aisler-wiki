@@ -2,13 +2,13 @@
 
 This is the public wiki of AISLER's service and also for general electronics manufacturing topics. Feel free to contribute by filing issues or submitting a pull request.
 
-This wiki uses [gollum](https://github.com/gollum/gollum) style syntax. So if you follow its instructions to set it up.) 
+This wiki uses [gollum](https://github.com/gollum/gollum) style syntax. Follow its instructions to set it up.
 
-[The wiki's homepage](Home.md)
+[The wiki's homepage](https://github.com/AislerHQ/aisler-wiki.git)
 
 ## License
 
-AISLER's wiki is Copyright © 2017 by AISLER B.V. 
+AISLER's wiki is Copyright © 2017 by AISLER B.V.
 
 It is licensed to you under [Creative Commons 4.0 International license](https://creativecommons.org/licenses/by/4.0/).
 
@@ -19,6 +19,3 @@ It is licensed to you under [Creative Commons 4.0 International license](https:/
 This wiki is maintained and funded by AISLER B.V.
 
 Looking for industry quality and affordable PCBs, visit us at [AISLER GO](https://go.aisler.net)
-
-
-
