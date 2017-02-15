@@ -14,7 +14,7 @@ We have compiled a few tutorials on how to use our service with your favorite el
 
 
 ## Submitting orders
-- [[How can I order more than one item at the same time?|submmiting-orders/ordering-mulitple-items-at-the-same-time]]
+- [[How can I order multiple items at the same time?|submmiting-orders/ordering-mulitple-items-at-the-same-time]]
 - [[Invoicing & accepted methods of payment|submitting-orders/invoicing]]
 - [[Shipping Information|submitting-orders/shipping-information]]
 
