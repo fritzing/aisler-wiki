@@ -4,7 +4,6 @@ We calculate the price for the PCBs solely by the PCB dimensions. Everything els
 Depending on the dimensions the following €/cm2 price applies.
 
 | Dimension       | Price per cm2 |
-|-----------------|---------------|
 | below 5 cm2     | € 0.40        |
 | 7.5 cm2         | € 0.35        |
 | 10.0 cm2        | € 0.30        |
