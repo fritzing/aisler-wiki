@@ -14,9 +14,12 @@ We have compiled a few tutorials on how to use our service with your favorite el
 
 
 ## Submitting orders
-- [[How can I order multiple items at the same time?|submmiting-orders/ordering-mulitple-items-at-the-same-time]]
+- [[How can I order multiple items at the same time?|submitting-orders/ordering-mulitple-items-at-the-same-time]]
+- [[How do you calculate the price for PCBs?|submitting-orders/pcb-price]]
 - [[Invoicing & accepted methods of payment|submitting-orders/invoicing]]
 - [[Shipping Information|submitting-orders/shipping-information]]
+
+
 
 ## For all other questions ##
 Didn't find what you are looking for? Then you can do three things:
