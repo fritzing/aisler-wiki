@@ -3,35 +3,95 @@
 We calculate the price for the PCBs solely by the PCB dimensions. Everything else such as drills is included.
 Depending on the dimensions the following €/cm2 price applies.
 
-| Dimension       | Price per cm2 |
-| below 5 cm2     | € 0.40        |
-| 7.5 cm2         | € 0.35        |
-| 10.0 cm2        | € 0.30        |
-| 12.5 cm2        | € 0.29        |
-| 15.0 cm2        | € 0.28        |
-| 20.0 cm2        | € 0.27        |
-| 25.0 cm2        | € 0.26        |
-| 30.0 cm2        | € 0.25        |
-| 35.0 cm2        | € 0.24        |
-| 40.0 cm2        | € 0.23        |
-| 50.0 cm2        | € 0.22        |
-| 60.0 cm2        | € 0.21        |
-| 70.0 cm2        | € 0.20        |
-| 100.0 cm2       | € 0.19        |
-| 120.0 cm2       | € 0.18        |
-| above 140.0 cm2 | € 0.16        |
+<table>
+  <tr>
+    <th>Dimension</th>
+    <th>Price per cm2</th>
+  </tr>
+  <tr>
+    <td>below 5 cm2</td>
+    <td>€ 0.40</td>
+  </tr>
+  <tr>
+    <td>7.5 cm2</td>
+    <td>€ 0.35</td>
+  </tr>
+  <tr>
+    <td>10.0 cm2</td>
+    <td>€ 0.30</td>
+  </tr>
+  <tr>
+    <td>12.5 cm2</td>
+    <td>€ 0.29</td>
+  </tr>
+  <tr>
+    <td>15.0 cm2</td>
+    <td>€ 0.28</td>
+  </tr>
+  <tr>
+    <td>20.0 cm2</td>
+    <td>€ 0.27</td>
+  </tr>
+  <tr>
+    <td>25.0 cm2</td>
+    <td>€ 0.26</td>
+  </tr>
+  <tr>
+    <td>30.0 cm2</td>
+    <td>€ 0.25</td>
+  </tr>
+  <tr>
+    <td>35.0 cm2</td>
+    <td>€ 0.24</td>
+  </tr>
+  <tr>
+    <td>40.0 cm2</td>
+    <td>€ 0.23</td>
+  </tr>
+  <tr>
+    <td>50.0 cm2</td>
+    <td>€ 0.22</td>
+  </tr>
+  <tr>
+    <td>60.0 cm2</td>
+    <td>€ 0.21</td>
+  </tr>
+  <tr>
+    <td>70.0 cm2</td>
+    <td>€ 0.20</td>
+  </tr>
+  <tr>
+    <td>100.0 cm2</td>
+    <td>€ 0.19</td>
+  </tr>
+  <tr>
+    <td>120.0 cm2</td>
+    <td>€ 0.18</td>
+  </tr>
+  <tr>
+    <td>above 140.0 cm2</td>
+    <td>€ 0.16</td>
+  </tr>
+</table>
 
 Please note that the minimum order quantity is three.
 
 ## Example
 If the PCB size is 30mm by 30mm the following price would apply:
 
-30 * 30 = 900mm2 = 9cm2
-
-9cm2 * €0.30 = €2.70
-
-€2.70 * 3 = €8.10
-
-Total: €8.10 for three PCBs
+<table>
+  <tr>
+    <td>3cm * 3cm</td><td>9cm2</td>
+  </tr>
+  <tr>
+    <td>9cm2 * €0.30</td><td>€2.70</td>
+  </tr>
+  <tr>
+    <td>€2.70 * 3 pcs.</td><td>€8.10</td>
+  </tr>
+  <tr>
+    <td colspan="2">Total: €8.10 for three PCBs</td>
+  </tr>
+</table>
 
 For orders above € 30.0 shipping worldwide is free.
