@@ -25,9 +25,13 @@ Please note that the minimum order quantity is three.
 
 ## Example
 If the PCB size is 30mm by 30mm the following price would apply:
+
 30 * 30 = 900mm2 = 9cm2
+
 9cm2 * €0.30 = €2.70
+
 €2.70 * 3 = €8.10
+
 Total: €8.10 for three PCBs
 
 For orders above € 30.0 shipping worldwide is free.
