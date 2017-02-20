@@ -77,20 +77,20 @@ Depending on the dimensions the following €/cm2 price applies.
 Please note that the minimum order quantity is three.
 
 ## Example
-If the PCB size is 30mm by 30mm the following price would apply:
+If the PCB size is 30mm by 30mm the following price would apply.
 
 <table>
   <tr>
-    <td>3cm * 3cm</td><td>9cm2</td>
+    <td>3cm * 3cm = 9cm2</td>
   </tr>
   <tr>
-    <td>9cm2 * €0.30</td><td>€2.70</td>
+    <td>9cm2 * €0.30 = €2.70</td>
   </tr>
   <tr>
-    <td>€2.70 * 3 pcs.</td><td>€8.10</td>
+    <td>€2.70 * 3 pcs. = €8.10</td>
   </tr>
   <tr>
-    <td colspan="2">Total: €8.10 for three PCBs</td>
+    <td>Total: €8.10 for three PCBs</td>
   </tr>
 </table>
 
