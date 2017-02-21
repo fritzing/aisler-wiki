@@ -4,7 +4,7 @@ This is the public wiki of AISLER's service and also for general electronics man
 
 This wiki uses [gollum](https://github.com/gollum/gollum) style syntax. Follow its instructions to set it up.
 
-[The wiki's homepage](https://github.com/AislerHQ/aisler-wiki.git)
+[The wiki's homepage](https://go.aisler.net/wiki/)
 
 ## License
 
