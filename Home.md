@@ -1,6 +1,6 @@
 # How to work with AISLER
 
-AISLER is the smartest, most affordable electronics manufacturing service in Europe. This is our documentation site where you should find out all the details about us. AISLER works well together with your favorite tool and chances are we already support a direct import.
+AISLER is the smartest, most affordable electronics manufacturing service in Europe. This is our documentation site where you should find out all the details about us. AISLER works well with your favorite tool and we most likely already support a direct import.
 
 ## Using AISLER with your favorite design tool
 We have compiled a few tutorials on how to use our service with your favorite electronic design tool. Right now we have tutorials for the following design tools:
