@@ -1,5 +1,5 @@
 <!-- --- title: How to order a Sketch with more than one board -->
-# How to order a Sketch more than one board
+# How to order a Sketch with more than one board
 Projects on AISLER are organized in repositories which contain one or more projects. As only on project at a time can be ordered we've to split up Fritzing Sketches with multiple boards.
 
 ## 1. Open the original Sketch
