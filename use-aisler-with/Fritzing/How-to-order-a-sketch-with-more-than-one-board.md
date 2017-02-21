@@ -3,19 +3,18 @@
 Projects on AISLER are organized in repositories which contain one or more projects. As only on project at a time can be ordered we've to split up Fritzing Sketches with multiple boards.
 
 ## 1. Open the original Sketch
+Open the original Sketch and save it with a new name.
 ![Open original sketch](assets/multiple_pcbs_original.png)
 
 ## 2. Select a single board to export
-Next step is to select the board you would like to export. Using your mouse select the whole board and hit ⌘-C on Mac or Strg-C on Windows/Linux to copy.
+Next step is to select the board you **do not** like to export. Using your mouse select the whole board and hit ⌘-Backspace on Mac or Delete on Windows/Linux to copy.
 
 ![Select PCB](assets/multiple_pcbs_selected.png)
 
-## 3. Create new Sketch
-Now create a new Sketch to paste the previously copied PCB to. Before you paste the board you have to remove the default board first.
+## 3. Save the Sketch
+Now when one board is left. Save your Sketch.
 
-![Delete default PCB](assets/multiple_pcbs_delete_default.png)
-
-Now paste the board using ⌘-V on Mac or Strg-V on Windows/Linux and save the Sktech.
+![Save New PCB](assets/multiple_pcbs_delete_default.png)
 
 ## 4. Redo the process
 Repeate this step for every single board.
