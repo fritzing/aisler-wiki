@@ -6,19 +6,21 @@ Projects on AISLER are organized in repositories which contain one or more proje
 ![Open original sketch](assets/multiple_pcbs_original.png)
 
 ## 2. Select a single board to export
-Netx step is to select the board you would like to export. Using your mouse select the whole board and hit Control-C (Strg-C) to copy.
+Next step is to select the board you would like to export. Using your mouse select the whole board and hit ⌘-C on Mac or Strg-C on Windows/Linux to copy.
 
 ![Select PCB](assets/multiple_pcbs_selected.png)
 
 ## 3. Create new Sketch
-Now create a new Sketch to paste the previously copied PCB to. Before you paste the board you've to remove the default board first.
+Now create a new Sketch to paste the previously copied PCB to. Before you paste the board you have to remove the default board first.
 
 ![Delete default PCB](assets/multiple_pcbs_delete_default.png)
 
-Now paste the board using Control-V (Strg-V) and save the Sktech.
+Now paste the board using ⌘-V on Mac or Strg-V on Windows/Linux and save the Sktech.
+
+## 4. Redo the process
 Repeate this step for every single board.
 
-## 4. Ready to go!
+## 5. Ready to go!
 You can now upload all previously created Sketches to AISLER.
 
-Pro Tip: Name the repository after your original Sketch and give the single PCBs distinctive names to recognize them later.
+**Pro Tip:** Name the repository after your original Sketch and give the single PCBs distinctive names to recognize them later.
