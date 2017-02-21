@@ -5,7 +5,7 @@
 
 Dear Fritzing user, we are happy you want to use our service. Fritzing has partnered with AISLER as your fool-proof way to purchase a high quality industry-grade PCB and support Fritzing's development. On these pages you will find information about the service and how it is used best.
 
-[[How to order a Sketch with multiple PCBs|use-aisler-with/Fritzing/How-to-order-a-sketch-with-multiple-pcbs]]
+[[How to order a Sketch with more than one board|use-aisler-with/Fritzing/How-to-order-a-sketch-with-more-than-one-board]]
 
 ### 0. The Basics of PCB design ###
 The basics: lay out your board, route the traces and clean up. [[Learn more|use-aisler-with/Fritzing/the-basics]]
