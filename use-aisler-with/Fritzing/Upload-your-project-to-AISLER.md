@@ -25,8 +25,8 @@ You will then be redirected to a new Project Page. Click **Select File** and sel
 
 It may take up to 10 seconds to have your project analyzed.
 
-**Attention:** At this moment we are not able to split fzz files containing multiple pcb-boards.
-You can follow this simple instructions to separate you boards. Please refer to the tutorial on how to order a [[Sketch with more than one board|use-aisler-with/Fritzing/How-to-order-a-sketch-with-more-than-one-board]]
+**Attention:** At this moment we are not able to process Sketches that contain multiple pcb-boards.
+[[Please follow these simple instructions to separate your boards|use-aisler-with/Fritzing/How-to-order-a-sketch-with-more-than-one-board]]
 
 ### 3. Proof your design (optional)
 ![Proof your Fritzing design](assets/manufacturing_renderings.png)
