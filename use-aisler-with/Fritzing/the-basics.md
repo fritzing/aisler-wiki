@@ -28,7 +28,7 @@ Check if the traces are thick enough. Some parts like motors, relays, batteries,
 Rule: A big and short trace is better than a long and thin one. You can also type in a custom trace width.
 
 ### 5. Clean up funky routing ###
-![Cleaning up funky routing in Fritzing][assets/05_routing.png]
+![Cleaning up funky routing in Fritzing](assets/05_routing.png)
 
 Sometimes, the auto-router produces strange traces. You can optimize them manually by moving or even removing bendpoints (double-click or right-click a bendpoint).
 
