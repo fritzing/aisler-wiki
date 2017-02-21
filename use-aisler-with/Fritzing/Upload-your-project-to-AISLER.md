@@ -25,6 +25,22 @@ You will then be redirected to a new Project Page. Click **Select File** and sel
 
 It may take up to 10 seconds to have your project analyzed.
 
+**Attention:** At this moment we are not able to split fzz files containing multiple pcb-boards.
+You can follow this simple instructions to separate you boards.
+
+**1. Open your Sketch**
+Open your Fritzing Fzz containing multiple pcb layouts and save the file with a new file name
+
+**2. Choose the PCB**
+Select all PCBs except one by left-click and dragging over the boards.  
+**Tip:** Hold strg to add more things to your selection  
+
+Simply hit the delete button after your selection is complete.
+
+**3. Redo the process**
+Save your file with the single board left and start from step one for every other board from your multiple board fzz file.
+
+
 ### 3. Proof your design (optional)
 ![Proof your Fritzing design](assets/manufacturing_renderings.png)
 
