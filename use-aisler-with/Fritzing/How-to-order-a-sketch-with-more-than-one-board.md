@@ -27,7 +27,7 @@ Now when one board is left. Save your Sketch.
 ![Save New PCB](assets/multiple_pcbs_delete_default.png)  
 
 ## 4. Redo the process
-Repeate this step for every single board.  
+Repeat this step for every single board.  
 
 ## 5. Ready to go!
 You can now upload all previously created Sketches to AISLER.
