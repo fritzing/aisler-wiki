@@ -16,7 +16,7 @@ Open the original Sketch and save it with a new name.
 
 ## 2. Select a single board to export
 Next step is to select the board you **do not** like to export. Using your mouse select the whole board and hit ⌘-Backspace on Mac or Delete on Windows/Linux to delete.  
-**Attation** We do not copy the board because this will lose all the connections in the other views.
+**Be careful:** Do not copy the board because that way all connections will be lost in the other views.
 
 ![Select PCB](assets/multiple_pcbs_selected.png)
 
