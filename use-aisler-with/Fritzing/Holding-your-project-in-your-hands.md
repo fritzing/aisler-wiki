@@ -8,6 +8,8 @@ You have waited **12 days** the most and now it is time to unwrap your project. 
 3. [[Documenting your parts (optional)|use-aisler-with/Fritzing/Document-parts-in-AISLER]]
 4. Holding your project in your hands
 
+**Pro Tip:** [[Prepare Multiboard fzz|use-aisler-with/Fritzing/How-to-order-a-sketch-with-more-than-one-board]]
+
 ### 1. Assemble your board ###
 
 Soldering is easy and fun (after a short phase of frustration) and there are many very nice tutorials:

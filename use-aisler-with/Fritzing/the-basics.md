@@ -8,6 +8,8 @@ This page tells you how to layout your board so that it can be produced by Fritz
 3. [[Documenting your parts (optional)|use-aisler-with/Fritzing/Document-parts-in-AISLER]]
 4. [[Holding your project in your hands|use-aisler-with/Fritzing/Holding-your-project-in-your-hands]]
 
+**Pro Tip:** [[Prepare Multiboard fzz|use-aisler-with/Fritzing/How-to-order-a-sketch-with-more-than-one-board]]
+
 ### 1. Layout your PCB ###
 Once you have created your circuit in Fritzing, go to "PCB" view to lay it out. If you are not familiar with this process, check out our [tutorial pages](http://fritzing.org/learning/tutorials/). Make sure you have [the latest version of Fritzing](http://fritzing.org/download) installed to reduce potential problems.
 

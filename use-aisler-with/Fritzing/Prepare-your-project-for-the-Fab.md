@@ -8,6 +8,8 @@ Once your board is layed out, give it the last finishing checks before you submi
 3. [[Documenting your parts (optional)|use-aisler-with/Fritzing/Document-parts-in-AISLER]]
 4. [[Holding your project in your hands|use-aisler-with/Fritzing/Holding-your-project-in-your-hands]]
 
+**Pro Tip:** [[Prepare Multiboard fzz|use-aisler-with/Fritzing/How-to-order-a-sketch-with-more-than-one-board]]
+
 ### 1. Make a Design Rule Check (DRC) ###
 ![Design rule check in Fritzing](assets/design_rule_check.png)
 

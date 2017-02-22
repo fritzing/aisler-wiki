@@ -10,6 +10,8 @@ This page is still work-in-progress, so consider yourself a **beta user** of our
 3. Documenting your parts (optional)
 4. [[Holding your project in your hands|use-aisler-with/Fritzing/Holding-your-project-in-your-hands]]
 
+**Pro Tip:** [[Prepare Multiboard fzz|use-aisler-with/Fritzing/How-to-order-a-sketch-with-more-than-one-board]]
+
 
 ### WIP ###
 It's a wiki after all ;-)
